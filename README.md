@@ -1,8 +1,8 @@
-# thrift自动生成的文件
+# Thrift auto generate
 
-执行`make`重新生成文件
+use `make` to start
 
-# 使用例子
+# Example
 
 ## Python
 
@@ -18,9 +18,9 @@ example.ExampleService
 ```
 
 
-# 常见问题
+# FAQ
 
-## `go get`无法下载？
+## can not download by `go get`
 
-执行 `git config --global url."git@github.com:JoveYu/thriftfile".insteadOf "https://github.com/JoveYu/thriftfile"`
+run `git config --global url."git@github.com:JoveYu/thriftfile".insteadOf "https://github.com/JoveYu/thriftfile"`
 
